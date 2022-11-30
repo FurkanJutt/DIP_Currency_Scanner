@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab96ed42756c1c4cab78bcab71421cf, type: 3}
+  m_Name: PAK
+  m_EditorClassIdentifier: 
+  currencyData:
+  - currencyValue: FPAK10
+    binding:
+      courtryName: Pakistan
+      currencyType: 
+  - currencyValue: BPAK10
+    binding:
+      courtryName: Pakistan
+      currencyType: 
+  - currencyValue: FPAK20
+    binding:
+      courtryName: Pakistan
+      currencyType: 
+  - currencyValue: BPAK20
+    binding:
+      courtryName: Pakistan
+      currencyType: 
+  - currencyValue: FPAK50
+    binding:
+      courtryName: Pakistan
+      currencyType: 
+  - currencyValue: BPAK50
+    binding:
+      courtryName: Pakistan
+      currencyType: 
+  - currencyValue: FPAK100
+    binding:
+      courtryName: Pakistan
+      currencyType: 
+  - currencyValue: BPAK100
+    binding:
+      courtryName: Pakistan
+      currencyType: 
+  - currencyValue: FPAK500
+    binding:
+      courtryName: Pakistan
+      currencyType: 
+  - currencyValue: BPAK500
+    binding:
+      courtryName: Pakistan
+      currencyType: 
+  - currencyValue: FPAK1000
+    binding:
+      courtryName: Pakistan
+      currencyType: 
+  - currencyValue: BPAK1000
+    binding:
+      courtryName: Pakistan
+      currencyType: 
+  - currencyValue: FPAK5000
+    binding:
+      courtryName: Pakistan
+      currencyType: 
+  - currencyValue: BPAK5000
+    binding:
+      courtryName: Pakistan
+      currencyType: 

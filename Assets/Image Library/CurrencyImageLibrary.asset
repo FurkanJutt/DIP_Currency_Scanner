@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: CurrencyImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5139793601156447626
+  m_GuidHigh: 1939916670184391859
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5452573002448054378
+      m_GuidHigh: 11702412814068525440
+    m_SerializedTextureGuid:
+      m_GuidLow: 11800735880491562997
+      m_GuidHigh: 9594402914468349065
+    m_Size: {x: 0.156, y: 0.08898368}
+    m_SpecifySize: 1
+    m_Name: FPAK10
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5162680876317452121
+      m_GuidHigh: 2890399222614165422
+    m_SerializedTextureGuid:
+      m_GuidLow: 4306619049464083544
+      m_GuidHigh: 2617978431399492553
+    m_Size: {x: 0.156, y: 0.088218}
+    m_SpecifySize: 1
+    m_Name: BPAK10
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5217968465520937507
+      m_GuidHigh: 16743496191798692504
+    m_SerializedTextureGuid:
+      m_GuidLow: 9265129863035999869
+      m_GuidHigh: 1544149980818540377
+    m_Size: {x: 0.156, y: 0.08119922}
+    m_SpecifySize: 1
+    m_Name: FPAK20
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5569284272058169585
+      m_GuidHigh: 2504083603019802546
+    m_SerializedTextureGuid:
+      m_GuidLow: 1541474554243476860
+      m_GuidHigh: 18177003543936432232
+    m_Size: {x: 0.156, y: 0.081656255}
+    m_SpecifySize: 1
+    m_Name: BPAK20
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4802073700731630986
+      m_GuidHigh: 14890584747676049597
+    m_SerializedTextureGuid:
+      m_GuidLow: 16493366058862230182
+      m_GuidHigh: 13200660022264275866
+    m_Size: {x: 0.156, y: 0.07636649}
+    m_SpecifySize: 1
+    m_Name: FPAK50
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4761351693097862481
+      m_GuidHigh: 13530230261559630498
+    m_SerializedTextureGuid:
+      m_GuidLow: 3072767601611557434
+      m_GuidHigh: 15859377335635785274
+    m_Size: {x: 0.156, y: 0.07615748}
+    m_SpecifySize: 1
+    m_Name: BPAK50
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4811148167343778210
+      m_GuidHigh: 11808779137428076729
+    m_SerializedTextureGuid:
+      m_GuidLow: 6252347797648624893
+      m_GuidHigh: 10683397663282094491
+    m_Size: {x: 0.156, y: 0.07290612}
+    m_SpecifySize: 1
+    m_Name: FPAK100
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5306552801007831358
+      m_GuidHigh: 316226980220613537
+    m_SerializedTextureGuid:
+      m_GuidLow: 15097311416268153798
+      m_GuidHigh: 13375954451708848088
+    m_Size: {x: 0.156, y: 0.07290612}
+    m_SpecifySize: 1
+    m_Name: BPAK100
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4800483053318829747
+      m_GuidHigh: 7998903021566980791
+    m_SerializedTextureGuid:
+      m_GuidLow: 16254741807492751326
+      m_GuidHigh: 3080619132819386731
+    m_Size: {x: 0.156, y: 0.06863104}
+    m_SpecifySize: 1
+    m_Name: FPAK500
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4650958356128809713
+      m_GuidHigh: 13309907838956393144
+    m_SerializedTextureGuid:
+      m_GuidLow: 2852130113057041249
+      m_GuidHigh: 16233648906015592857
+    m_Size: {x: 0.156, y: 0.06860052}
+    m_SpecifySize: 1
+    m_Name: BPAK500
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5451174666482562111
+      m_GuidHigh: 517121996004923793
+    m_SerializedTextureGuid:
+      m_GuidLow: 294078454441781006
+      m_GuidHigh: 192849265870828186
+    m_Size: {x: 0.156, y: 0.064974}
+    m_SpecifySize: 1
+    m_Name: FPAK1000
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4770515411154335072
+      m_GuidHigh: 3725704351032115329
+    m_SerializedTextureGuid:
+      m_GuidLow: 6027199167253901254
+      m_GuidHigh: 3703489797533680728
+    m_Size: {x: 0.156, y: 0.064974}
+    m_SpecifySize: 1
+    m_Name: BPAK1000
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4893768545483267789
+      m_GuidHigh: 6712307497435641485
+    m_SerializedTextureGuid:
+      m_GuidLow: 730972593390917914
+      m_GuidHigh: 14000445524385130442
+    m_Size: {x: 0.156, y: 0.061441116}
+    m_SpecifySize: 1
+    m_Name: FPAK5000
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5705331585274804416
+      m_GuidHigh: 11724003548264446397
+    m_SerializedTextureGuid:
+      m_GuidLow: 7945663827157119981
+      m_GuidHigh: 11795679498233607929
+    m_Size: {x: 0.156, y: 0.06178618}
+    m_SpecifySize: 1
+    m_Name: BPAK5000
+    m_Texture: {fileID: 0}

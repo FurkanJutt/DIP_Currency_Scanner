@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scanner.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 05b49ca3453b38c4abfc4b6515f90bd3, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 539fb58948d83834c81dad8f6dda6f0e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1f5ff1e6d67d0f349b36a6f0155156b1, type: 2}
